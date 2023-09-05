@@ -14,7 +14,6 @@
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "importHelpers": true,
-    "importsNotUsedAsValues": "error",
     "incremental": true,
     "isolatedModules": true,
     "jsx": "preserve",
@@ -54,7 +53,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/Layout.tsx"  ],
   "exclude": [
     "node_modules"
   ]

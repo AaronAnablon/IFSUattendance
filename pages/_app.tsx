@@ -5,4 +5,5 @@ function HumanApp({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />
 }
 
+
 export default HumanApp
